@@ -1,4 +1,4 @@
-,customerID,gender_proc,partner_proc,dependents_proc,phone_service_proc,churn_proc,paperless_billing_proc,multiple_lines_proc,internet_service_proc,online_security_proc,device_protection_proc,tech_support_proc,streaming_tv_proc,streaming_movies_proc,tenure,contract_proc,payment_method_proc,MonthlyCharges,TotalCharges,SeniorCitizen,online_backup_proc
+,customer_id,gender,partner,dependents,phone_service,churn,paperless_billing,multiple_lines,internet_service,online_security,device_protection,tech_support,streaming_tv,streaming_movies,tenure,contract,payment_method,monthly_charges,total_charges,senior_citizen,online_backup
 2142,4223-BKEOR,1,0,1,1,0,0,-1,1,1,1,-1,-1,1,21,2,2,64.85,1336.8,0,-1
 1623,6035-RIIOM,1,0,0,1,0,1,1,2,-1,-1,-1,1,1,54,3,3,97.2,5129.45,0,1
 6074,3797-VTIDR,0,1,0,0,1,1,-1,1,-1,-1,-1,-1,-1,1,1,1,23.45,23.45,0,-1

@@ -1,4 +1,4 @@
-,customerID,gender_proc,partner_proc,dependents_proc,phone_service_proc,churn_proc,paperless_billing_proc,multiple_lines_proc,internet_service_proc,online_security_proc,device_protection_proc,tech_support_proc,streaming_tv_proc,streaming_movies_proc,tenure,contract_proc,payment_method_proc,MonthlyCharges,TotalCharges,SeniorCitizen,online_backup_proc
+,customer_id,gender,partner,dependents,phone_service,churn,paperless_billing,multiple_lines,internet_service,online_security,device_protection,tech_support,streaming_tv,streaming_movies,tenure,contract,payment_method,monthly_charges,total_charges,senior_citizen,online_backup
 185,1024-GUALD,1,1,0,0,1,1,-1,1,-1,-1,-1,-1,-1,1,1,1,24.8,24.8,0,-1
 2715,0484-JPBRU,0,0,0,1,0,1,1,1,-1,-1,-1,-1,-1,41,1,3,25.25,996.45,0,-1
 3825,3620-EHIMZ,1,1,1,1,0,0,-1,1,-1,-1,-1,-1,-1,52,3,2,19.35,1031.7,0,-1
